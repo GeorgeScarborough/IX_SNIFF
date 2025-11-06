@@ -1,5 +1,4 @@
-python-telegram-bot
-requests
-python-nmap
 Flask
+icmplib
 gunicorn
+flask-cors
